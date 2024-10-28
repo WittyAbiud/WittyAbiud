@@ -1,0 +1,1 @@
+I'm a passionate Python Developer with a knack for turning complex problems into simple, elegant solutions. My expertise lies in developing web applications, building machine learning models, and automating everyday tasks to enhance productivity. I love learning new technologies and sharing my knowledge with the community through open-source contributions and blogging.
